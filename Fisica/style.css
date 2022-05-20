@@ -1,0 +1,15 @@
+body{
+ image-rendering: initial ;
+}
+div{
+    background-color: black;
+    border-radius: 25%;
+    margin-right: 100px;
+    width: 350px;
+    height: 300px;
+    display: inline-block;
+}
+p{
+    margin: 15%;
+    color: white;
+}
